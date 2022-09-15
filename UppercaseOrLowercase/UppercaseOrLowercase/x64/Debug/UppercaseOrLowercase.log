@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\sudha\source\repos\UppercaseOrLowercase\UppercaseOrLowercase\Source.c(8,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\sudha\source\repos\UppercaseOrLowercase\UppercaseOrLowercase\Source.c(8,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\sudha\source\repos\UppercaseOrLowercase\UppercaseOrLowercase\Source.c(8,10): message : the missing variadic argument 2 is required by format string '%c'
+C:\Users\sudha\source\repos\UppercaseOrLowercase\UppercaseOrLowercase\Source.c(8,10): message : this argument is used as a buffer size
+C:\Users\sudha\source\repos\UppercaseOrLowercase\UppercaseOrLowercase\Source.c(10,19): warning C4013: 'toupper' undefined; assuming extern returning int
+C:\Users\sudha\source\repos\UppercaseOrLowercase\UppercaseOrLowercase\Source.c(13,24): warning C4013: 'tolower' undefined; assuming extern returning int
+  UppercaseOrLowercase.vcxproj -> C:\Users\sudha\source\repos\UppercaseOrLowercase\x64\Debug\UppercaseOrLowercase.exe
